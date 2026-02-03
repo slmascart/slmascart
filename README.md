@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Sciel, Ludivine Mascart. I do stuff. More to come when things will have been figured out. Crepes.
 
 <!--
 **slmascart/slmascart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
