@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Sciel, Ludivine Mascart. I do stuff. More to come when things will have been figured out. Crepes.
+My name is Sciel, Ludivine Mascart. I do stuff, sonetimes I publish it. More to come when things will have been figured out. ⸜(｡˃ ᵕ ˂)⸝♡ Please have some crêpes
 
 <!--
 **slmascart/slmascart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
